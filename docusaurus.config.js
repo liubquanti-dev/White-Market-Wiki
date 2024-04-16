@@ -68,11 +68,11 @@ const config = {
 			metadata: [
 				{
 					name: 'og:image',
-					content: 'https://mcount.fun/img/logo-background.png',
+					content: 'https://wiki.wmarket.fun/img/logo-background.png',
 				},
 				{
 					name: 'theme-color',
-					content: '#e24040',
+					content: '#c4a26e',
 				},
 				{
 					name: 'twitter:card',
