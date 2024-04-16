@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>White Market Wiki Blog</title>
+        <link>https://example.com/blog/</link>
+        <description>White Market Wiki Blog</description>
+        <lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>uk</language>
+        <item>
+            <title><![CDATA[Блог]]></title>
+            <link>https://example.com/blog/2024/02/13/changelog</link>
+            <guid>https://example.com/blog/2024/02/13/changelog</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Оновлено сайт!]]></description>
+            <content:encoded><![CDATA[<p>Оновлено сайт!</p>]]></content:encoded>
+            <category>changelog</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhite_market_wiki=self.webpackChunkwhite_market_wiki||[]).push([[112],{1568:e=>{e.exports=JSON.parse('[{"label":"changelog","permalink":"/blog/tags/changelog","count":1}]')}}]);
