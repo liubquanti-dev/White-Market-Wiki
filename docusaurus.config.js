@@ -68,7 +68,7 @@ const config = {
 			metadata: [
 				{
 					name: 'og:image',
-					content: 'https://wiki.wmarket.fun/img/logo-background.png',
+					content: 'img/logo-background.png',
 				},
 				{
 					name: 'theme-color',
